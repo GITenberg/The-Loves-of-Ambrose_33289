@@ -19,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2838
     wikipedia: http://en.wikipedia.org/wiki/Margaret_Vandercook
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33289#The-Loves-of-Ambrose
 gutenberg_issued: '2010-07-29'
 gutenberg_type: Text
 identifiers:
